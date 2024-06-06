@@ -38,9 +38,9 @@ const Users = () => {
   return (
     <Container>
       <TextField
-      color='secondary'
         label="Search Here Your User Details"
-        variant="standard"
+        variant="outlined"
+        color='secondary'
         fullWidth
         margin="normal"
         value={search}

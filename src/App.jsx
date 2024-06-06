@@ -6,10 +6,10 @@ function App() {
 
   return (
     <div>
-      <Navbar/>
-    <Users />
-  </div>
-);
+      <Navbar />
+      <Users />
+    </div>
+  );
 };
 
 export default App
